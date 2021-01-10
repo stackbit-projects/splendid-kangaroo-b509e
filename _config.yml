@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 description: An ultra customizable generic theme for Stackbit
 header:
-  title: Starter
+  title: Hindu Temple of Eastern North Carolina
   has_nav: true
   nav_links:
     - label: Features
